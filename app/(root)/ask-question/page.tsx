@@ -5,8 +5,8 @@ import { redirect } from "next/navigation";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Ask Question | Bindass Bol",
-  description: "Asking Question Page - Bindass Bol",
+  title: "Ask Question | Candy Talk",
+  description: "Asking Question Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

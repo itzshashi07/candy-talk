@@ -17,7 +17,7 @@ const Navbar = () => {
           alt="Image"
         />
         <p className="relative h2-bold font-spaceGrotesk text-dark-100 dark:text-light-900 max-sm:text-[20px]">
-          Bindass&nbsp;<span className="text-primary-500">Bol</span>
+          Candy&nbsp;<span className="text-primary-500">Talk</span>
         </p>
       </Link>
       <NotificationCount />

@@ -12,8 +12,8 @@ import Link from "next/link";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Question Details | Bindass Bol",
-  description: "Question Details Page - Bindass Bol",
+  title: "Question Details | Candy Talk",
+  description: "Question Details Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

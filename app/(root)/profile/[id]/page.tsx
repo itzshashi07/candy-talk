@@ -22,8 +22,8 @@ export async function generateMetadata({
   const userInfo = await getUserInfo({ userId: params.id });
 
   return {
-    title: `${userInfo?.user?.name} - Profile | Bindass Bol`,
-    description: `Profile Page of ${userInfo?.user?.name} on Bindass Bol`,
+    title: `${userInfo?.user?.name} - Profile | Candy Talk`,
+    description: `Profile Page of ${userInfo?.user?.name} on Candy Talk`,
     icons: {
       icon: "/assets/icons/fav.svg",
     },

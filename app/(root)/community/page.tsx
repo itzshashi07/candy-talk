@@ -9,8 +9,8 @@ import Link from "next/link";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Community | Bindass Bol",
-  description: "Community Page - Bindass Bol",
+  title: "Community | Candy Talk",
+  description: "Community Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },
@@ -50,7 +50,7 @@ const Page = async ({ searchParams }: SearchParamsProps) => {
               href="/sign-up"
               className="mt-3 font-semibold text-accent-blue"
             >
-              Join Bindass Bol to be the first!
+              Join Candy Talk to be the first!
             </Link>
           </div>
         )}

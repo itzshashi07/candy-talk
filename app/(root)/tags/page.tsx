@@ -8,8 +8,8 @@ import Link from "next/link";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Tags | Bindass Bol",
-  description: "Tags Page - Bindass Bol",
+  title: "Tags | Candy Talk",
+  description: "Tags Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

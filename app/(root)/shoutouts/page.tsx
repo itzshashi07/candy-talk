@@ -13,8 +13,8 @@ import React from "react";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Shoutouts | Bindass Bol",
-  description: "Shoutouts Page - Bindass Bol",
+  title: "Shoutouts | Candy Talk",
+  description: "Shoutouts Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

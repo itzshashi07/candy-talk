@@ -13,8 +13,8 @@ import { getUserById } from "@/lib/actions/user.action";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "User's Shoutouts | Bindass Bol",
-  description: "Shoutouts Page - Bindass Bol",
+  title: "User's Shoutouts | Candy Talk",
+  description: "Shoutouts Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

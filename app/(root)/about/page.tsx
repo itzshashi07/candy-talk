@@ -3,8 +3,8 @@ import Link from "next/link";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "About | Bindass Bol",
-  description: "About Page - Bindass Bol",
+  title: "About | Candy Talk",
+  description: "About Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },
@@ -12,13 +12,13 @@ export const metadata: Metadata = {
 const page = () => {
   return (
     <div className="container mx-auto px-4 py-10">
-      <h1 className="h1-bold text-dark100_light900 mb-8">About Bindass Bol</h1>
+      <h1 className="h1-bold text-dark100_light900 mb-8">About Candy Talk</h1>
 
       {/* About the App Section */}
       <section className="mb-12">
         <h2 className="h2-semibold text-primary-500 mb-4">Our Thought</h2>
         <p className="paragraph-regular text-dark300_light700">
-          Bindass Bol is a platform created to empower you to freely express
+          Candy Talk is a platform created to empower you to freely express
           your thoughts, share opinions, and connect with like-minded
           individuals. Our goal is to foster a safe and inclusive community
           where everyone feels comfortable sharing their views, whether
@@ -56,7 +56,7 @@ const page = () => {
           Community Guidelines
         </h2>
         <p className="paragraph-regular text-dark300_light700">
-          At Bindass Bol, we believe in fostering a positive and respectful
+          At Candy Talk, we believe in fostering a positive and respectful
           community. To ensure a welcoming environment for everyone, we ask our
           users to adhere to the following guidelines:
         </p>
@@ -103,7 +103,7 @@ const page = () => {
           Join Our Community
         </h2>
         <p className="paragraph-regular text-dark300_light700 mb-6">
-          Become a part of Bindass Bol today and start sharing your thoughts,
+          Become a part of Candy Talk today and start sharing your thoughts,
           connecting with others, and making your voice heard. Let's build a
           community where everyone feels valued and heard.
         </p>

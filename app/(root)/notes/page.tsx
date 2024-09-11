@@ -11,8 +11,8 @@ import Link from "next/link";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Note | Bindass Bol",
-  description: "Note Page - Bindass Bol",
+  title: "Note | Candy Talk",
+  description: "Note Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

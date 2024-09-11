@@ -9,8 +9,8 @@ import Pagination from "@/components/shared/Pagination";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Collection | Bindass Bol",
-  description: "Collection Page - Bindass Bol",
+  title: "Collection | Candy Talk",
+  description: "Collection Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

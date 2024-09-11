@@ -6,8 +6,8 @@ import { URLProps } from "@/types";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Tag Details | Bindass Bol",
-  description: "Tag Details Page - Bindass Bol",
+  title: "Tag Details | Candy Talk",
+  description: "Tag Details Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.png",
   },

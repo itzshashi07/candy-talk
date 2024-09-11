@@ -11,8 +11,8 @@ import { getNotifications } from "@/lib/actions/notification.action";
 import NotificationCard from "@/components/cards/NotificationCard";
 
 export const metadata: Metadata = {
-  title: "Your Notifications | Bindass Bol",
-  description: "Notifications Page - Bindass Bol",
+  title: "Your Notifications | Candy Talk",
+  description: "Notifications Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

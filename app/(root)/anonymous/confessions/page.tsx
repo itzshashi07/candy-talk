@@ -11,8 +11,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import GlobalSearchSmall from "@/components/shared/search/GlobalSearchSmall";
 export const metadata: Metadata = {
-  title: "Confessions | Bindass Bol",
-  description: "Confession Page - Bindass Bol",
+  title: "Confessions | Candy Talk",
+  description: "Confession Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

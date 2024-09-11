@@ -19,8 +19,8 @@ import type { Metadata } from "next";
 import { auth } from "@clerk/nextjs/server";
 
 export const metadata: Metadata = {
-  title: "Home | Bindass Bol",
-  description: "Home Page - Bindass Bol",
+  title: "Home | Candy Talk",
+  description: "Home Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

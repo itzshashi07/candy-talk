@@ -8,8 +8,8 @@ import type { Metadata } from "next";
 import { getNotesCreatedForUser } from "@/lib/actions/note.action";
 import NoteCard from "@/components/cards/NoteCard";
 export const metadata: Metadata = {
-  title: "User's Shoutouts | Bindass Bol",
-  description: "Shoutouts Page - Bindass Bol",
+  title: "User's Shoutouts | Candy Talk",
+  description: "Shoutouts Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

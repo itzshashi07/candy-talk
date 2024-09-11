@@ -6,8 +6,8 @@ import { auth } from "@clerk/nextjs/server";
 
 import type { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Edit Note | Bindass Bol",
-  description: "Edit Note Page - Bindass Bol",
+  title: "Edit Note | Candy Talk",
+  description: "Edit Note Page - Candy Talk",
   icons: {
     icon: "/assets/icons/fav.svg",
   },

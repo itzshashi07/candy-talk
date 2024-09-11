@@ -15,9 +15,9 @@ const spaceGrotesk = Space_Grotesk({
   variable: "--font-spaceGrotesk",
 });
 export const metadata: Metadata = {
-  title: "Bindass Bol - A Platform for Sharing Your Thoughts",
+  title: "Candy Talk - A Platform for Sharing Your Thoughts",
   description:
-    "Join Bindass Bol, a platform where you can freely express your thoughts, share confessions, ask questions, and give shoutouts to your friends anonymously or with your identity. Connect with your college community like never before!",
+    "Join Candy Talk, a platform where you can freely express your thoughts, share confessions, ask questions, and give shoutouts to your friends anonymously or with your identity. Connect with your college community like never before!",
   icons: {
     icon: "/assets/icons/fav.svg",
   },
