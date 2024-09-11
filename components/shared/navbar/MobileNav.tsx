@@ -67,7 +67,7 @@ const MobileNav = () => {
             alt="Image"
           />
           <p className="h2-bold font-spaceGrotesk text-dark100_light900">
-            Bindass&nbsp;<span className="text-primary-500">Bol</span>
+            Candy&nbsp;<span className="text-primary-500">Talk</span>
           </p>
         </Link>
         <div>
